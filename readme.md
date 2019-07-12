@@ -26,13 +26,13 @@ Pour créer la base de données :
 
 ## Utilisation
 ### - On démarre le serveur react
-Attention il faut se placer dans le dossier "reactproject"
+Attention il faut se placer dans le dossier "reactproject" !
 ```
 yarn start
 ```
 
 ### - On démarre le serveur symfony
-Attention il faut se placer dans le dossier "symfony"
+Attention il faut se placer dans le dossier "symfony" !
 ```
 php bin/console server:run
 ```
