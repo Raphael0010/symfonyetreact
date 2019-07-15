@@ -38,8 +38,6 @@ php bin/console server:run
 ```
 
 
-Please make sure to update tests as appropriate.
-
 ## Information supplémentaire
 
 C'est un CRD pas CRUD j'ai pas eu le temps de faire la modification d'un client.  
