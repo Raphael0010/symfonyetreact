@@ -1,7 +1,7 @@
 # Installation
 
 On configure le fichier .env de syfmony ( symfony -> .env)   
-( J'ai laisser un .env.local pour exemple)
+( J'ai laissé un .env.local pour exemple)
 
 ## On récupère les dépendances symfony et react 
 
@@ -16,6 +16,7 @@ On se met dans le dossier reactproject et on lance :
 ```
 yarn
 ```
+
 ## Création de la base de données
 
 Pour créer la base de données :
@@ -40,9 +41,9 @@ php bin/console server:run
 
 ## Information supplémentaire
 
-C'est un CRD pas CRUD j'ai pas eu le temps de faire la modification d'un client.  
-Les relations de notre base de données ont donné du fil à retorde à la gestion du front-end.
-( sur le front on ne peut pas attribuer plusieurs formation à un élèves)
+C'est un CRD pas CRUD je n'ai pas eu le temps de faire la modification d'un client.  
+Les relations de notre base de données ont données du fil à retordre sur la gestion du front-end.
+( L'IHM ne peut pas attribuer plusieurs formations à un élève)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
